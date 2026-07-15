@@ -20,10 +20,8 @@ This project analyzes Netflix's content library, providing insights into movies,
 
 ## 📊 Dashboard Preview
 
-> **Add your dashboard screenshot here**
+<img width="981" height="557" alt="Netflix png" src="https://github.com/user-attachments/assets/971be78a-9003-459b-888f-0c06baa62b1a" />
 
-![Dashboard Preview](<img width="981" height="557" alt="Netflix png" src="https://github.com/user-attachments/assets/3da6cd9e-e16e-4222-81e8-ab74a67606bd" />
-)
 
 ---
 
@@ -121,17 +119,6 @@ CALCULATE(
 - Business Intelligence
 - KPI Development
 - Data Visualization
-
----
-
-## 📷 Dashboard
-
-<img width="981" height="557" alt="Netflix png" src="https://github.com/user-attachments/assets/dbfc91d9-5370-4571-afde-281aeafd7f50" />
-
-
----
-
-
 
 ---
 
