@@ -126,7 +126,8 @@ CALCULATE(
 
 ## 📷 Dashboard
 
-Replace the placeholder image with your own dashboard screenshot.
+<img width="981" height="557" alt="Netflix png" src="https://github.com/user-attachments/assets/dbfc91d9-5370-4571-afde-281aeafd7f50" />
+
 
 ---
 
